@@ -71,7 +71,7 @@ Include some screenshots of your app to give users a visual understanding of its
 1. *Clone the repository:*
 
     ```bash
-    git clone https://github.com/Aayush014/theme_change.git
+    git clone https://github.com/Aayush014/adaptive_widget.git
     ```
 
 2. *Install dependencies:*
